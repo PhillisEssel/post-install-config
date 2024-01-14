@@ -50,6 +50,6 @@ Next enable anyone to create tickets(problems/tech issues). Go to Admin Panel>Se
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next Configure some users (customers/employees of third parties that are having tech issues. they will be able to put in requests as tickets for the agents) Go to Admin Panel>Users>Add New. Example "Karen/Ken" as the customers/employees of third parties. Then after configure SLA (limited time to fix a specific issue. Go to Admin Panel>Manage>SLA. Examples of time set ups: SEV-A>1 hour, SEV-B>4 hour, SEV-C8 hour(could be business hours) Lastly configure the Help Topics. Go to Admin Panel>Manage>Help Topic. Examples: Business Critical Outage/Personal Computer Issues/Equipment Request/Password Reset.
 </p>
 <br />
