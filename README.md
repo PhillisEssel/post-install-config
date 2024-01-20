@@ -42,7 +42,7 @@ Login to osTicket as an help desk. Go to Admin Panel>Agents>Roles and configure 
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next enable anyone to create tickets(problems/tech issues). Go to Admin Panel>Settings>User Settings and require registration and login to create tickets. Then configure Agents (actual workers. these workers are responsible for solving tech issues and will be under a specific department within a team solving different help topics.) Goto Admin Panel>Agents>Add New. Example "Jane/Josh" as the tech problem solvers.
+Next enable anyone to create tickets(problems/tech issues). Go to Admin Panel>Settings>Users and require registration and login to create tickets. Then configure Agents (actual workers. these workers are responsible for solving tech issues and will be under a specific department within a team solving different help topics.) Goto Admin Panel>Agents>Add New. Example "Jane/Josh" as the tech problem solvers.
 </p>
 <br />
 
