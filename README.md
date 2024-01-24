@@ -31,6 +31,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
+<h3>Phase One</h3>
+  
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
@@ -39,14 +41,18 @@ Login to osTicket as an help desk. Go to Admin Panel>Agents>Roles and configure 
 <br />
 
 <p>
+<h3>Phase Two</h3>
+  
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next enable anyone to create tickets(problems/tech issues). Go to Admin Panel>Settings>Users and require registration and login to create tickets. Then configure Agents (actual workers. these workers are responsible for solving tech issues and will be under a specific department within a team solving different help topics.) Goto Admin Panel>Agents>Add New. Example "Jane/Josh" as the tech problem solvers.
+Next enable anyone to create tickets(problems/tech issues). Go to Admin Panel>Settings>Users and require registration and login to create tickets. Then configure Agents (actual workers. these workers are responsible for solving tech issues and will be under a specific department within a team solving different help topics.) Go to Admin Panel>Agents>Add New. Example "Jane/Josh" as the tech problem solvers.
 </p>
 <br />
 
 <p>
+<h3>Phase Three</h3>
+  
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
